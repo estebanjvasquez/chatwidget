@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/estebanjvasquez/6a09d685b9ba924661098ce9c80b0ed2/raw/6787445a43363db0acbd7d84987c0fda81a6a35f/chat-widget.js
